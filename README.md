@@ -17,9 +17,7 @@ This project provides a **user-friendly desktop application** to manage banking 
 
 | Register Page | Login Page | Dashboard |
 |---------------|------------|-----------|
-| ![Register](screenshots/register.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
-> *(Add these screenshots inside a `/screenshots` folder in your repo)*
+| ![Output](screenshots/projectouput.png) |
 
 ---
 
