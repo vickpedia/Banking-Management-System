@@ -15,8 +15,6 @@ This project provides a **user-friendly desktop application** to manage banking 
 
 > Screenshots from the Java Swing GUI
 
-| Register Page | Login Page | Dashboard |
-|---------------|------------|-----------|
 | ![Output](screenshots/projectouput.png) |
 
 ---
