@@ -45,3 +45,32 @@ CREATE TABLE users (
     password VARCHAR(100),
     balance DOUBLE DEFAULT 0
 );
+
+
+
+## 🚀 Features
+User Registration with input validation
+
+Secure login with database authentication
+
+Check account balance
+
+Deposit and withdraw money
+
+Transaction history logging
+
+Swing GUI for intuitive use
+
+Proper exception handling
+
+## 🛠 Technologies Used
+Java (Swing)
+
+MySQL
+
+JDBC
+
+## ✅ Conclusion
+This project is a functional prototype of a core banking system built for learning purposes. It demonstrates how to build real-world Java desktop applications integrated with MySQL databases using best coding practices and OOP concepts.
+
+
